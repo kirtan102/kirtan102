@@ -1,0 +1,1 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/ncdai.svg?base=16941&amp;variant=outline&amp;font=geist" /><img alt="profile views" src="https://shieldcn.dev/views/user/ncdai.svg?base=16941&amp;variant=outline&amp;mode=light&amp;font=geist" /></picture>
