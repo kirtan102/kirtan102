@@ -9,7 +9,7 @@ Currently Working on :- blah blah blah
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Icons/text-dark.svg">
-    <img alt="Header Image" src="./Icons/text-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./Icons/text-light.svg">
+    <img alt="Header Image" src="./Icons/text-dark.svg" width="400">
   </picture>
 </div>
