@@ -1,3 +1,13 @@
+<div align="center">
+
+# Kirtan Javiya
+
+<a href="https://github.com/kirtanjaviya"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40kirtanjaviya-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40kirtanjaviya-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a>
+
+<a href="https://github.com/kirtanjaviya?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/kirtanjaviya.svg?variant=secondary&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/kirtanjaviya.svg?variant=secondary&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <a href="https://github.com/kirtanjaviya?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/kirtanjaviya.svg?variant=secondary&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/kirtanjaviya.svg?variant=secondary&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a> <a href="https://github.com/kirtanjaviya?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-8-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-8-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light&amp;font=geist"></picture></a>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/kirtanjaviya.svg?variant=outline&font=geist" />
   <img alt="profile views" src="https://shieldcn.dev/views/user/kirtanjaviya.svg?variant=outline&mode=light&font=geist" />
@@ -5,35 +15,30 @@
 
 Visit my portfolio website: [kirtanjaviya.dev](https://kirtanjaviya.dev)
 
+</div>
+
 ### 🏗️ Currently Shipping
 *Updated weekly with what I am actively building.*
 - **Building:** [Insert project name/description here]
 - **Learning:** [Insert current focus here]
 
-### 💻 Stack
+### 💻 Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-HTML-E34F26.svg?logo=html5&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="HTML" src="https://www.shieldcn.dev/badge/-HTML-E34F26.svg?logo=html5&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-CSS-1572B6.svg?logo=css3&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="CSS" src="https://www.shieldcn.dev/badge/-CSS-1572B6.svg?logo=css3&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture>
 
 **Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="React" src="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Next.js" src="https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Tailwind CSS" src="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture>
 
 **Cloud & Deployment**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673AB7?style=flat-square&logo=hostinger&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-AWS-FF9900.svg?logo=amazonaws&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="AWS" src="https://www.shieldcn.dev/badge/-AWS-FF9900.svg?logo=amazonaws&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Nginx-009639.svg?logo=nginx&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Nginx" src="https://www.shieldcn.dev/badge/-Nginx-009639.svg?logo=nginx&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Hostinger-673AB7.svg?logo=hostinger&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Hostinger" src="https://www.shieldcn.dev/badge/-Hostinger-673AB7.svg?logo=hostinger&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture>
 
 **CI/CD & DevOps**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Linux" src="https://www.shieldcn.dev/badge/-Linux-FCC624.svg?logo=linux&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Docker" src="https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture>
 
 **Tools & Integrations**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Git-F05033.svg?logo=git&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Git" src="https://www.shieldcn.dev/badge/-Git-F05033.svg?logo=git&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="GitHub" src="https://www.shieldcn.dev/badge/-GitHub-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Postman-FF6C37.svg?logo=postman&amp;variant=branded&amp;size=sm&amp;mode=dark&amp;font=geist"><img alt="Postman" src="https://www.shieldcn.dev/badge/-Postman-FF6C37.svg?logo=postman&amp;variant=branded&amp;size=sm&amp;mode=light&amp;font=geist"></picture>
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
