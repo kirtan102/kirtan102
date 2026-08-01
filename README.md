@@ -12,8 +12,6 @@
 Visit portfolio:
 <a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a>
 
-<br><br>
-
 Currently Working on :- blah blah blah
 
 </div>
