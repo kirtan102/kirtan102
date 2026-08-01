@@ -5,6 +5,6 @@
 
 Visit my portfolio website: [kirtanjaviya.dev](https://kirtanjaviya.dev)
 
-### Currently working on
-- **NetPoint**: Building custom websites and web solutions for local businesses.
-- **Frontend tools**: Developing a dynamic email signature and a newsletter builder to practice DOM manipulation.
+**Currently working on:**
+- Building websites for local businesses via NetPoint.
+- Creating a dynamic email signature builder.
