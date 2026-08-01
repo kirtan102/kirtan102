@@ -11,12 +11,12 @@
     <img alt="Profile Views" src="https://shieldcn.dev/views/user/noobda.svg?variant=outline&mode=light&font=geist" />
   </picture>
 
-  <p>
+  <div>
     Visit portfolio:
     <a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a>
-  </p>
+  </div>
 
-  <p>
+  <div>
     Currently Working on :- blah blah blah
-  </p>
+  </div>
 </div>
