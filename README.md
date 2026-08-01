@@ -6,3 +6,10 @@
 Visit portfolio: [kirtanjaviya.dev](https://kirtanjaviya.dev)
 
 Currently Working on :- blah blah blah
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Icons/text-dark.svg">
+    <img alt="Header Image" src="./Icons/text-light.svg">
+  </picture>
+</div>
