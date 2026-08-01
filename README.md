@@ -5,6 +5,6 @@
 
 Visit portfolio: [kirtanjaviya.dev](https://kirtanjaviya.dev)
 
-**Currently working on:**
+### Currently working on
 - Building websites for local businesses via NetPoint.
 - Creating a dynamic email signature builder.
