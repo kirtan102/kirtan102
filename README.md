@@ -3,7 +3,7 @@
   <img alt="profile views" src="https://shieldcn.dev/views/user/noobda.svg?variant=outline&mode=light&font=geist" />
 </picture>
 
-Visit my portfolio website: [kirtanjaviya.dev](https://kirtanjaviya.dev)
+Visit portfolio: [kirtanjaviya.dev](https://kirtanjaviya.dev)
 
 **Currently working on:**
 - Building websites for local businesses via NetPoint.
