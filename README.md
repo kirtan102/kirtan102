@@ -4,9 +4,6 @@
     <img alt="Header Image" src="./Icons/text-dark.svg" width="250">
   </picture>
 </div>
-<p align="center">
-  <img src="./Icons/text-dark.svg" alt="Logo" width="100%">
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/noobda.svg?variant=outline&font=geist" />
   <img alt="profile views" src="https://shieldcn.dev/views/user/noobda.svg?variant=outline&mode=light&font=geist" />
