@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/kirtanjaviya.svg?variant=outline&font=geist" />
-  <img alt="profile views" src="https://shieldcn.dev/views/user/kirtanjaviya.svg?variant=outline&mode=light&font=geist" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/noobda.svg?variant=outline&font=geist" />
+  <img alt="profile views" src="https://shieldcn.dev/views/user/noobda.svg?variant=outline&mode=light&font=geist" />
 </picture>
 
-Visit my portfolio website: [kirtanjaviya.dev](https://kirtanjaviya.dev)
+Visit my portfolio website: [noobda.dev](https://noobda.dev)
