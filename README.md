@@ -4,6 +4,11 @@
 
 <hr>
 
+<div align="center">
+<h3>VISIT PORTFOLIO:
+<a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a></h3>
+<br>
+</div>
 
 <div align="center">
 
@@ -11,9 +16,4 @@
 
 </div>
 
-<div>
 
-<h3>Visit portfolio:
-<a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a></h3>
-
-</div>
