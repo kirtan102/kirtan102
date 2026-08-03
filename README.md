@@ -4,15 +4,16 @@
 
 <hr>
 
-<div>
-
-<h3>Visit portfolio:
-<a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a></h3>
-
-</div>
 
 <div align="center">
 
 <img src="./Elements/Frontend/terminal-adaptive.svg" alt="terminal" width="700" />
+
+</div>
+
+<div>
+
+<h3>Visit portfolio:
+<a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a></h3>
 
 </div>
