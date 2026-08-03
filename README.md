@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kirtan-javiya-animated.svg" alt="terminal" width="700" />
+  <img src="./Icons/kirtan-javiya-animated.svg" alt="terminal" width="700" />
 </div>
 
 <hr>
