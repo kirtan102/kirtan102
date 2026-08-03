@@ -4,7 +4,7 @@
 
 <hr>
 
-<div align="center">
+<div>
 
 <h3>Visit portfolio:
 <a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a></h3>
