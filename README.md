@@ -6,4 +6,13 @@
   </h3>
 
   <img src="./Elements/Frontend/terminal-adaptive.svg?v=2" alt="Terminal" width="680" />
+
+  <br /><br />
+
+  <p align="center">
+    <b>Connect with me:</b> &nbsp;
+    <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer">X (Twitter)</a> &nbsp;•&nbsp;
+    <a href="mailto:kirtanjaviyawork@gmail.com">Email</a>
+  </p>
 </div>
