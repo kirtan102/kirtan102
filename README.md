@@ -12,17 +12,28 @@
 
   <br /><br />
 
-  <!-- Portfolio Link -->
+  <!-- Role Title -->
+  <h3 align="center">
+    Frontend & Full-Stack Engineer &nbsp;·&nbsp; Web Crafter &nbsp;·&nbsp; AI Explorer
+  </h3>
+
+  <!-- Bio / What I'm doing -->
   <p align="center">
-    Visit my portfolio website: <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><u>kirtanjaviya.dev</u></a>
+    <i>Crafting modern, high-performance web applications & intelligent user experiences.</i>
   </p>
 
   <br />
 
-  <!-- 3D Social Buttons -->
-  <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer"><img src="./Elements/btn-linkedin-3d.svg?v=1" alt="LinkedIn" width="130" /></a>
+  <!-- Social Badges (X / Twitter + LinkedIn) -->
+  <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer">
+    <img src="https://shieldcn.dev/x/mention/kirtan_javiya.svg" alt="X Mention" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer"><img src="./Elements/btn-x-3d.svg?v=1" alt="X / Twitter" width="130" /></a>
+  <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer">
+    <img src="./Elements/linkedin-badge.svg?v=1" alt="LinkedIn Profile" />
+  </a>
   &nbsp;&nbsp;
-  <a href="mailto:kirtanjaviyawork@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./Elements/btn-email-3d.svg?v=1" alt="Email" width="130" /></a>
+  <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer">
+    <u>Visit Portfolio: kirtanjaviya.dev</u>
+  </a>
 </div>
