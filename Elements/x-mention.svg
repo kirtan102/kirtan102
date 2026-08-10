@@ -1,0 +1,31 @@
+<svg width="156" height="32" viewBox="0 0 156 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg-pill { fill: #ffffff; stroke: #e4e4e7; stroke-width: 1.2; }
+      .icon-fill { fill: #09090b; fill-opacity: 0.9; }
+      .x-sep { fill: #71717a; }
+      .badge-text { fill: #09090b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; font-weight: 500; }
+      
+      @media (prefers-color-scheme: dark) {
+        .bg-pill { fill: #0d1117; stroke: #30363d; }
+        .icon-fill { fill: #f0f6fc; fill-opacity: 0.9; }
+        .x-sep { fill: #8b949e; }
+        .badge-text { fill: #f0f6fc; }
+      }
+    </style>
+  </defs>
+
+  <!-- Outer Pill Background -->
+  <rect x="0.6" y="0.6" width="154.8" height="30.8" rx="6" class="bg-pill" />
+
+  <!-- Official X Vector Logo -->
+  <g transform="translate(12, 8) scale(0.66667)">
+    <path class="icon-fill" d="M14.2 10.2 23 0H21L13.2 8.8 7.3 0H.3L9.4 13.3.3 24H2.3L10.3 14.7 16.7 24H23.7zM11.4 13.5 10.4 12 3.2 1.6H6.3L12.3 10 13.1 11.4 20.9 22.5H17.7z"/>
+  </g>
+
+  <!-- Shieldcn Vector 'x' Separator Path -->
+  <path class="x-sep" d="M36.1 21H34.4L37.4 16.5V17.7L34.5 13.4H36.2L37.1 14.8Q37.5 15.3 37.7 15.9L38.3 16.9H37.6L38.1 15.9 38.7 14.8 39.6 13.4H41.3L38.4 17.7V16.6L41.4 21H39.7L38.7 19.4 38.1 18.3 37.5 17.3H38.2L37.7 18.3 37.1 19.4z" transform="translate(0, -0.5)"/>
+
+  <!-- Handle Text: @kirtanjaviyaa -->
+  <text x="48" y="20.5" class="badge-text">@kirtanjaviyaa</text>
+</svg>

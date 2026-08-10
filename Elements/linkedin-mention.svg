@@ -1,22 +1,32 @@
-<svg width="154" height="32" viewBox="0 0 154 32" xmlns="http://www.w3.org/2000/svg">
+<svg width="148" height="32" viewBox="0 0 148 32" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .badge-text { fill: #18181b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; font-weight: 500; }
+      .bg-pill { fill: #ffffff; stroke: #e4e4e7; stroke-width: 1.2; }
+      .x-sep { fill: #71717a; }
+      .badge-text { fill: #09090b; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13.5px; font-weight: 500; }
+      .icon-blue { fill: #0a66c2; }
+      
+      @media (prefers-color-scheme: dark) {
+        .bg-pill { fill: #0d1117; stroke: #30363d; }
+        .x-sep { fill: #8b949e; }
+        .badge-text { fill: #f0f6fc; }
+        .icon-blue { fill: #388bfd; }
+      }
     </style>
   </defs>
 
-  <!-- Outer Pill Background (#fafafa) -->
-  <path fill="#fafafa" d="M6 0H148A6 6 0 0 1 154 6V26A6 6 0 0 1 148 32H6A6 6 0 0 1 0 26V6A6 6 0 0 1 6 0"/>
+  <!-- Outer Pill Background -->
+  <rect x="0.6" y="0.6" width="146.8" height="30.8" rx="6" class="bg-pill" />
 
   <!-- Official Pixel-Perfect LinkedIn Logo -->
   <g transform="translate(8, 6) scale(0.8333)">
-    <rect width="24" height="24" rx="5" fill="#0a66c2"/>
+    <rect width="24" height="24" rx="5" class="icon-blue"/>
     <path fill="#ffffff" d="M5.01 9.006h3.19v10.992H5.01V9.006zM6.605 3.998c1.02 0 1.848.828 1.848 1.848 0 1.02-.828 1.848-1.848 1.848-1.02 0-1.848-.828-1.848-1.848 0-1.02.828-1.848 1.848-1.848zM10.22 9.006h3.057v1.503h.043c.426-.807 1.467-1.657 3.018-1.657 3.228 0 3.824 2.124 3.824 4.887v6.255h-3.192v-5.545c0-1.323-.024-3.025-1.843-3.025-1.845 0-2.128 1.442-2.128 2.93v5.64H10.22V9.006z"/>
   </g>
 
-  <!-- Shieldcn Exact Vector 'x' Separator Path -->
-  <path fill="#18181b" fill-opacity=".65" d="M36.1 21H34.4L37.4 16.5V17.7L34.5 13.4H36.2L37.1 14.8Q37.5 15.3 37.7 15.9L38.3 16.9H37.6L38.1 15.9 38.7 14.8 39.6 13.4H41.3L38.4 17.7V16.6L41.4 21H39.7L38.7 19.4 38.1 18.3 37.5 17.3H38.2L37.7 18.3 37.1 19.4z" transform="translate(-1, -0.5)"/>
+  <!-- Shieldcn Vector 'x' Separator Path -->
+  <path class="x-sep" d="M36.1 21H34.4L37.4 16.5V17.7L34.5 13.4H36.2L37.1 14.8Q37.5 15.3 37.7 15.9L38.3 16.9H37.6L38.1 15.9 38.7 14.8 39.6 13.4H41.3L38.4 17.7V16.6L41.4 21H39.7L38.7 19.4 38.1 18.3 37.5 17.3H38.2L37.7 18.3 37.1 19.4z" transform="translate(-1, -0.5)"/>
 
-  <!-- Handle Text -->
-  <text x="47" y="20.5" class="badge-text">@kirtan-javiya</text>
+  <!-- Handle Text: @kirtanjaviya -->
+  <text x="47" y="20.5" class="badge-text">@kirtanjaviya</text>
 </svg>
