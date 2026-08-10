@@ -3,12 +3,15 @@
 
   <br /><br />
 
-  <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer">
-    <img src="./Elements/portfolio-adaptive.svg" alt="Visit Portfolio" width="220" />
-  </a>
+<div align="center">
 
-  <br /><br />
+<h3>Visit portfolio:
+<a href="https://kirtanjaviya.dev">kirtanjaviya.dev</a></h3>
 
-  <img src="./Elements/Frontend/terminal-adaptive.svg" alt="Terminal" width="680" />
 </div>
 
+<div align="center">
+
+<img src="./Elements/Frontend/terminal-adaptive.svg" alt="terminal" width="700" />
+
+</div>
