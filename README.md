@@ -8,7 +8,7 @@
   <br /><br />
 
   <!-- Minimal Animated Name Header -->
-  <img src="./Elements/NameSVG/dont_see.svg" alt="Kirtan Javiya" width="680" />
+  <img src="./Elements/dont_see.svg" alt="Kirtan Javiya" width="680" />
 
   <!-- Role Title -->
   <h3 align="center" style="margin-top: 14px; margin-bottom: 6px;">
