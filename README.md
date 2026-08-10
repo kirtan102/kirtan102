@@ -13,7 +13,7 @@
   </h3>
 
   <p align="center">
-    Visit my portfolio website: <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><u>kirtanjaviya.dev</u></a>
+    Explore my work -> <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><u>kirtanjaviya.dev</u></a>
   </p>
 
   <p align="center">
