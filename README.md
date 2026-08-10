@@ -9,5 +9,15 @@
 
   <br /><br />
 
-  <img src="./Elements/socials-3d.svg?v=1" alt="Connect with me" width="680" />
+  <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer">
+    <img src="./Elements/btn-linkedin-3d.svg?v=1" alt="LinkedIn" width="140" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer">
+    <img src="./Elements/btn-x-3d.svg?v=1" alt="X / Twitter" width="140" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kirtanjaviyawork@gmail.com">
+    <img src="./Elements/btn-email-3d.svg?v=1" alt="Email" width="140" />
+  </a>
 </div>
