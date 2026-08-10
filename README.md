@@ -5,7 +5,6 @@
   </picture>
 
 <br><br>
-
   <img src="./Elements/NameSVG/normal-style.svg" alt="Kirtan Javiya" width="680" />
 
   <h3 align="center" style="margin-top: 14px; margin-bottom: 6px;">
