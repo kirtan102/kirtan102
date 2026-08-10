@@ -4,7 +4,8 @@
     <img alt="profile views" src="https://shieldcn.dev/views/user/kirtan102.svg?variant=outline&mode=light&font=geist" />
   </picture>
 
-<br><br>
+<br>
+<span>&nbsp;</span>
   <img src="./Elements/NameSVG/normal-style.svg" alt="Kirtan Javiya" width="680" />
 
   <h3 align="center" style="margin-top: 14px; margin-bottom: 6px;">
