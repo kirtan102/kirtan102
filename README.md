@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/kirtanjaviya.svg?variant=outline&font=geist" />
-    <img alt="profile views" src="https://shieldcn.dev/views/user/kirtanjaviya.svg?variant=outline&mode=light&font=geist" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/kirtan102.svg?variant=outline&font=geist" />
+    <img alt="profile views" src="https://shieldcn.dev/views/user/kirtan102.svg?variant=outline&mode=light&font=geist" />
   </picture>
 
 <br /><br />
