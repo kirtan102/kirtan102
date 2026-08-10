@@ -8,7 +8,7 @@
   <br /><br />
 
   <!-- Minimal Animated Name Header -->
-  <img src="./Elements/NameSVG/kirtan-javiya-minimal.svg?v=7" alt="Kirtan Javiya" width="680" />
+  <img src="./Elements/NameSVG/dont_see.svg" alt="Kirtan Javiya" width="680" />
 
   <!-- Role Title -->
   <h3 align="center" style="margin-top: 14px; margin-bottom: 6px;">
@@ -28,11 +28,5 @@
   <br />
 
   <!-- Mention Badges (X / Twitter + LinkedIn) -->
-  <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer">
-    <img src="https://shieldcn.dev/x/mention/kirtan_javiya.svg" alt="X Mention" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer">
-    <img src="./Elements/linkedin-mention.svg?v=4" alt="LinkedIn Mention" />
-  </a>
+  <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://shieldcn.dev/x/mention/kirtan_javiya.svg" alt="X Mention" /></a> <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="./Elements/linkedin-mention.svg?v=5" alt="LinkedIn Mention" /></a>
 </div>
