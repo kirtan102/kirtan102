@@ -3,11 +3,12 @@
 
   <br /><br />
 
-  <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer">
-    <img src="./Elements/portfolio-adaptive.svg" alt="Visit Portfolio" width="220" />
-  </a>
+  <p align="center">
+    <code>Frontend Engineer</code> &nbsp;•&nbsp; <code>Surat, Gujarat</code> &nbsp;•&nbsp; <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><b>🌐 kirtanjaviya.dev</b></a>
+  </p>
 
-  <br /><br />
+  <br />
 
   <img src="./Elements/Frontend/terminal-adaptive.svg" alt="Terminal" width="680" />
 </div>
+
