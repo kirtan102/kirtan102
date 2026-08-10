@@ -9,7 +9,7 @@
   <img src="./Elements/NameSVG/normal-style.svg" alt="Kirtan Javiya" width="680" />
 
   <h3 align="center" style="margin-top: 14px; margin-bottom: 6px;">
-    AI & Full-Stack Engineer &nbsp;·&nbsp; GenAI Builder &nbsp;·&nbsp; Web Crafter
+    Full-Stack Developer &nbsp;·&nbsp; AgeneticAI Learner &nbsp;·&nbsp; Cloud & DevOps
   </h3>
 
   <p align="center">
