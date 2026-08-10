@@ -17,7 +17,7 @@
   </p>
 
   <p align="center">
-    <i>Crafting intelligent systems at the intersection of LLMs, scalable backends, and modern frontend architecture.</i>
+    <i>I build full-stack applications, explore agentic AI, and work with modern cloud infrastructure.</i>
   </p>
 
   <br />
