@@ -26,24 +26,18 @@
       .badge-text { fill: #ffffff; }
       .title-text { fill: #333333; }
       .term-text { fill: #111111; }
-      .prompt-user { fill: #1a7f37; }
-      .prompt-path { fill: #0550ae; }
-      .prompt-sep { fill: #656d76; }
       .cursor { fill: #9a9a9a; }
       .border-outer { stroke: #e0e0e0; }
       @media (prefers-color-scheme: dark) {
-        .bg-outer { fill: #0d1117; }
-        .bg-titlebar { fill: #161b22; }
-        .bg-titlebar-border { fill: #21262d; }
+        .bg-outer { fill: #1e1e1e; }
+        .bg-titlebar { fill: #2b2b2b; }
+        .bg-titlebar-border { fill: #3a3a3a; }
         .badge-bg { fill: #e8e8e8; }
-        .badge-text { fill: #0d1117; }
-        .title-text { fill: #c9d1d9; }
-        .term-text { fill: #e6edf3; }
-        .prompt-user { fill: #3fb950; }
-        .prompt-path { fill: #58a6ff; }
-        .prompt-sep { fill: #8b949e; }
-        .cursor { fill: #6e7681; }
-        .border-outer { stroke: #30363d; }
+        .badge-text { fill: #1e1e1e; }
+        .title-text { fill: #cfcfcf; }
+        .term-text { fill: #e6e6e6; }
+        .cursor { fill: #8a8a8a; }
+        .border-outer { stroke: #3f3f3f; }
       }
     </style>
   </defs>
@@ -62,7 +56,7 @@
     <text x="222" y="21.5" font-size="13" font-weight="400" class="title-text">kirtan@github — zsh</text>
 
     <text x="24" y="60" font-size="14" opacity="0">
-      <tspan font-weight="700" class="prompt-user">kirtan@github</tspan><tspan class="prompt-sep"> </tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sep"> % </tspan><tspan font-weight="400" class="term-text">whoami</tspan>
+      <tspan font-weight="700" class="term-text">$ kirtan@github</tspan><tspan font-weight="400" class="term-text"> ~ % whoami</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.3s" fill="freeze"/>
     </text>
 
@@ -71,20 +65,20 @@
     </text>
 
     <text x="24" y="112" font-size="14" opacity="0">
-      <tspan font-weight="700" class="prompt-user">kirtan@github</tspan><tspan class="prompt-sep"> </tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sep"> % </tspan><tspan font-weight="400" class="term-text">cat stack.txt</tspan>
+      <tspan font-weight="700" class="term-text">$ kirtan@github</tspan><tspan font-weight="400" class="term-text"> ~ % cat stack.txt</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.3s" fill="freeze"/>
     </text>
 
-    <text x="24" y="132" font-size="14" font-weight="400" class="term-text" opacity="0">React · Next.js · TypeScript · Tailwind CSS ·
+    <text x="24" y="132" font-size="14" font-weight="400" class="term-text" opacity="0">HTML / CSS / JS / React / Tailwind / AWS /
       <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.3s" fill="freeze"/>
     </text>
 
-    <text x="24" y="152" font-size="14" font-weight="400" class="term-text" opacity="0">HTML · CSS · JavaScript · AWS · Docker
+    <text x="24" y="152" font-size="14" font-weight="400" class="term-text" opacity="0">Next.js / Linux / Docker / TypeScript
       <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.3s" fill="freeze"/>
     </text>
 
     <text x="24" y="184" font-size="14" opacity="0">
-      <tspan font-weight="700" class="prompt-user">kirtan@github</tspan><tspan class="prompt-sep"> </tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sep"> % </tspan><tspan font-weight="400" class="term-text">cat status.txt</tspan>
+      <tspan font-weight="700" class="term-text">$ kirtan@github</tspan><tspan font-weight="400" class="term-text"> ~ % cat status.txt</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.3s" fill="freeze"/>
     </text>
 
@@ -93,7 +87,7 @@
     </text>
 
     <text x="24" y="236" font-size="14" opacity="0">
-      <tspan font-weight="700" class="prompt-user">kirtan@github</tspan><tspan class="prompt-sep"> </tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sep"> % </tspan><tspan font-weight="400" class="term-text">echo $LOCATION</tspan>
+      <tspan font-weight="700" class="term-text">$ kirtan@github</tspan><tspan font-weight="400" class="term-text"> ~ % echo $LOCATION</tspan>
       <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.3s" fill="freeze"/>
     </text>
 
@@ -102,10 +96,10 @@
     </text>
 
     <text x="24" y="288" font-size="14" opacity="0">
-      <tspan font-weight="700" class="prompt-user">kirtan@github</tspan><tspan class="prompt-sep"> </tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-sep"> % </tspan>
+      <tspan font-weight="700" class="term-text">$ kirtan@github</tspan><tspan font-weight="400" class="term-text"> ~ % </tspan>
       <animate id="finalIn" attributeName="opacity" from="0" to="1" begin="3.8s" dur="0.3s" fill="freeze"/>
     </text>
-    <rect x="178" y="276" width="8" height="15" class="cursor" opacity="0">
+    <rect x="193" y="276" width="8" height="15" class="cursor" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="3.8s" dur="0.01s" fill="freeze"/>
       <animate attributeName="opacity" begin="finalIn.end" dur="1s" values="1;0;1" repeatCount="indefinite"/>
     </rect>
