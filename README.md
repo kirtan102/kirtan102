@@ -13,11 +13,11 @@
   </h3>
 
   <p align="center">
-    <i>I build full-stack applications, explore agentic AI, and work with modern cloud infrastructure.</i>
+    Visit my portfolio website: <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><u>kirtanjaviya.dev</u></a>
   </p>
 
   <p align="center">
-    Visit my portfolio website: <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><u>kirtanjaviya.dev</u></a>
+    <i>I build full-stack applications, explore agentic AI, and work with modern cloud infrastructure.</i>
   </p>
 
   <br />
