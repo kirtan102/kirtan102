@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./Elements/NameSVG/kirtan-javiya-minimal.svg?v=6" alt="Kirtan Javiya" width="680" />
+  <img src="./Elements/NameSVG/kirtan-javiya-minimal.svg?v=7" alt="Kirtan Javiya" width="680" />
 
-  <h3 align="center" style="margin-top: 28px; margin-bottom: 28px;">
+  <h3 align="center" style="margin-top: 16px; margin-bottom: 16px;">
     Visit my Portfolio: <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><u>kirtanjaviya.dev</u></a>
   </h3>
 
