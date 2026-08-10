@@ -1,9 +1,11 @@
 <div align="center">
-  <a href="https://kirtanjaviya.dev">
-    <img src="./Elements/NameSVG/kirtan-javiya-minimal.svg?v=5" alt="Kirtan Javiya — Portfolio" width="680" />
-  </a>
-  <br />
-  <sub><a href="https://kirtanjaviya.dev">kirtanjaviya.dev ↗</a></sub>
+  <img src="./Elements/NameSVG/kirtan-javiya-minimal.svg?v=6" alt="Kirtan Javiya" width="680" />
+
+  <br /><br />
+
+  <p align="center">
+    Visit my Portfolio: <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><b>kirtanjaviya.dev</b></a>
+  </p>
 
   <br />
 
