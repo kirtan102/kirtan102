@@ -1,28 +1,21 @@
 <svg width="154" height="32" viewBox="0 0 154 32" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .bg-pill { fill: #fafafa; }
-      .icon-fill { fill: #18181b; fill-opacity: 0.9; }
-      .sep-text { fill: #18181b; fill-opacity: 0.7; font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 500; }
-      .handle-text { fill: #18181b; font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 500; }
-      @media (prefers-color-scheme: dark) {
-        .bg-pill { fill: #18181b; }
-        .icon-fill { fill: #fafafa; fill-opacity: 0.9; }
-        .sep-text { fill: #fafafa; fill-opacity: 0.7; }
-        .handle-text { fill: #fafafa; }
-      }
+      .badge-text { fill: #18181b; font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 500; }
+      .badge-x { fill: #18181b; fill-opacity: 0.6; font-family: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 400; }
     </style>
   </defs>
 
-  <!-- Outer Pill Background -->
-  <rect x="0" y="0" width="154" height="32" rx="6" class="bg-pill" />
+  <!-- Outer Pill Background (#fafafa) -->
+  <path fill="#fafafa" d="M6 0H148A6 6 0 0 1 154 6V26A6 6 0 0 1 148 32H6A6 6 0 0 1 0 26V6A6 6 0 0 1 6 0"/>
 
-  <!-- LinkedIn Vector Icon -->
-  <g transform="translate(10, 7) scale(0.72)">
-    <path class="icon-fill" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.25V10.9H6.46M7.86 6.88a1.47 1.47 0 1 0 0 2.94 1.47 1.47 0 0 0 0-2.94z"/>
+  <!-- Official Pixel-Perfect LinkedIn Logo (Matching Image 2) -->
+  <g transform="translate(8, 6) scale(0.8333)">
+    <rect width="24" height="24" rx="5" fill="#0a66c2"/>
+    <path fill="#ffffff" d="M5.01 9.006h3.19v10.992H5.01V9.006zM6.605 3.998c1.02 0 1.848.828 1.848 1.848 0 1.02-.828 1.848-1.848 1.848-1.02 0-1.848-.828-1.848-1.848 0-1.02.828-1.848 1.848-1.848zM10.22 9.006h3.057v1.503h.043c.426-.807 1.467-1.657 3.018-1.657 3.228 0 3.824 2.124 3.824 4.887v6.255h-3.192v-5.545c0-1.323-.024-3.025-1.843-3.025-1.845 0-2.128 1.442-2.128 2.93v5.64H10.22V9.006z"/>
   </g>
 
-  <!-- Mention Text -->
-  <text x="32" y="20" class="sep-text">in</text>
-  <text x="50" y="20" class="handle-text">@kirtan-javiya</text>
+  <!-- Collab 'x' Separator and Handle -->
+  <text x="35" y="20.5" class="badge-x">x</text>
+  <text x="49" y="20.5" class="badge-text">@kirtan-javiya</text>
 </svg>

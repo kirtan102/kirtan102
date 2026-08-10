@@ -27,15 +27,12 @@
 
   <br />
 
-  <!-- Shieldcn Mention Badges (X / Twitter + LinkedIn) -->
+  <!-- Mention Badges (X / Twitter + LinkedIn) -->
   <a href="https://x.com/kirtan_javiya" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/x/mention/kirtan_javiya.svg?variant=default&size=sm&mode=dark&font=geist" />
-      <img alt="X Mention" src="https://shieldcn.dev/x/mention/kirtan_javiya.svg?variant=default&size=sm&mode=light&font=geist" />
-    </picture>
+    <img src="https://shieldcn.dev/x/mention/kirtan_javiya.svg" alt="X Mention" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/kirtan-javiya" target="_blank" rel="noopener noreferrer">
-    <img src="./Elements/linkedin-mention.svg?v=1" alt="LinkedIn Mention" />
+    <img src="./Elements/linkedin-mention.svg?v=4" alt="LinkedIn Mention" />
   </a>
 </div>
