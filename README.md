@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Elements/NameSVG/kirtan-javiya-minimal.svg" alt="Kirtan Javiya" width="680" />
 
-  <a href="https://kirtanjaviya.dev" target="_blank" rel="noopener noreferrer"><b>🌐 kirtanjaviya.dev</b></a>
+  <a href="https://kirtanjaviya.dev"><kbd>&nbsp;kirtanjaviya.dev&nbsp;</kbd></a>
 
   <br /><br />
 
